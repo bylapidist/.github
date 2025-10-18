@@ -1,4 +1,4 @@
-# `Lapidist` (n): a craftsman who cuts and polishes precious gems
+# `Lapidist` (n): one who cuts and polishes precious gems
 
 I am building tools that help teams create accessible, sustainable user interfaces.
 
